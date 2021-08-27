@@ -1,2 +1,2 @@
 # PatternDecorator
-Decorator 
+Using pattern "Decorator" 
